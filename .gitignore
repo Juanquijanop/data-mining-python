@@ -319,6 +319,8 @@ pyrightconfig.json
 
 LACrimeData.csv
 
+*.csv
+
 *.cpg
 *.dbf
 *.prj
