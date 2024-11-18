@@ -326,3 +326,10 @@ LACrimeData.csv
 *.prj
 *.shp
 *.shx
+
+
+# Ignorar modelos y codificadores
+*.pkl
+*.skl
+
+*.xlsx
